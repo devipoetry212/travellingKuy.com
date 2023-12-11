@@ -37,7 +37,7 @@
                     <div class="d-inline-flex align-items-center">
 						<p><i class="fa fa-envelope mr-2"></i>travelKuy@gmail.com</p>
                         <p class="text-body px-3">|</p>
-                        <p><i class="fa fa-phone-alt mr-2"></i>+62 82 232 288 605</p>>
+                        <p><i class="fa fa-phone-alt mr-2"></i>+62 82 232 288 605</p>
                     </div>
                 </div>
                 <div class="col-lg-6 text-center text-lg-right">
